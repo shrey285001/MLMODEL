@@ -1,0 +1,9 @@
+numpy==1.18.5
+pandas==1.0.5
+Flask_RESTful==0.3.8
+joblib==0.16.0
+Flask==1.1.2
+scipy==1.5.0
+simplejson==3.17.2
+requests==2.24.0
+gunicorn==19.9.0
